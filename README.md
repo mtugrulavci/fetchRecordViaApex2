@@ -1,6 +1,5 @@
 # fetchRecordViaApex2
 
-# fetchRecordViaApex1
 
 Apex class:
 
